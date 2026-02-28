@@ -343,3 +343,14 @@ body {
   /* ✅ gives breathing room */
   background: #f5f5f5;
 }
+
+body {
+  background: #f5f5f5;
+}
+
+.hero,
+.contact,
+.listofprojects>div,
+.listoffitness>div {
+  background: transparent;
+}
